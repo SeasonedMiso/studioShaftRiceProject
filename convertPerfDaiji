@@ -1,0 +1,11 @@
+//take in system data
+
+systemDate;
+systemTime;
+cpu;
+ram;
+gpu;
+
+//convert to kanji date and kanji time
+//covert to kyuujitai
+//print to display
