@@ -3,7 +3,7 @@ import os
 import time
 import sys
 
-file_name = "necotati.txt"
+file_name = "./asciiArt/necotati.txt"
 
 pipeMode = False;
 if (len(sys.argv)>1 and sys.argv[1] == "-p"): pipeMode=True;
